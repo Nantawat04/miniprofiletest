@@ -30,8 +30,8 @@ function Profile() {
                             style={{
                                 transition: 'transform 0.2s',
                                 cursor: 'pointer',
-                                objectFit: 'cover',       // crop รูปเต็ม Avatar
-                                objectPosition: 'center', // จัดตำแหน่งกลางหน้า
+                                objectFit: 'cover',       
+                                objectPosition: 'center', 
                             }}
                         />
                         <Box>
